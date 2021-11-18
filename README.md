@@ -8,5 +8,7 @@
 ![](https://img.shields.io/badge/-Vue.js-29beb0?style=flat-square&logo=vue.js&labelColor=ffffff&color=4FC08D)
 ![](https://img.shields.io/badge/-React-29beb0?style=flat-square&logo=React&labelColor=ffffff&color=61DAFB)
 ![](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
+- 📮 可以在其他平台找到关于我:
 
-<code><a href="https://space.bilibili.com/450443708"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
+<code><a href="https://space.bilibili.com/450443708"><img height="40" src="https://github.com/AirHua-byte/AirHua-byte/blob/main/BILIBILI_LOGO.png"></a></code>
+<code><a href="https://juejin.cn/user/1231918073125544" style="margin-left: 20px"><img height="40" src="https://github.com/AirHua-byte/AirHua-byte/blob/main/juejin.png"></a></code>
