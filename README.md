@@ -10,5 +10,5 @@
 ![](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
 - 📮 可以在其他平台找到关于我:
 
-<code><a href="https://space.bilibili.com/450443708"><img height="40" src="https://github.com/AirHua-byte/AirHua-byte/blob/main/BILIBILI_LOGO.png"></a></code>
+<code><a href="https://space.bilibili.com/450443708"><img height="40" src="https://i0.hdslb.com/bfs/feed-admin/04663f46513bcef96d8835a897a96c8237fd9860.png"></a></code>
 <code><a href="https://juejin.cn/user/1231918073125544" style="margin-left: 20px"><img height="40" src="https://github.com/AirHua-byte/AirHua-byte/blob/main/juejin.png"></a></code>
