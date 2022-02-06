@@ -2,6 +2,7 @@
 
 - 🔭 我是 **AirHua**
 - 🌱 出生于2001年,目前是一名在校学生
+- :cyclone: 
 - 📫 邮箱: [huabyte@qq.com](http://wpa.qq.com/msgrd?v=3&uin=3301833942&site=qq&menu=yes)
 - ⚡ 常用技术栈: 
 ![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
